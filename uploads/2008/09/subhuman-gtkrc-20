@@ -1,0 +1,72 @@
+# SubHuman GTK Theme - Removes padding and improves Fitts' Law compliance
+#
+# Authors:
+#	Alex Willmer <alex@moreati.org.uk>
+#
+# Credit:
+# 	Adapted from Human Compact by Martin Ankerl
+# 		http://www.gnome-look.org/content/show.php?content=80980
+#
+# Notes:
+#	Run app with GTK2_RC_FILES=/path/to/this/file to test.
+#	GTK+ theming: http://live.gnome.org/GnomeArt/Tutorials/GtkThemes
+#	GTK+ obj hierachy: http://library.gnome.org/devel/gtk/stable/ch01.html
+# 	
+style "subhuman-default" {
+	# Gap between contained window and scrollbar.
+	GtkScrolledWindow	::scrollbar_spacing = 0
+
+	# Place a double arrow at bottom/right end of scrollbars
+	# TODO Why are boolean values specified as a number
+	# TODO Possible to remove rounded corners from primary steppers?
+	GtkScrollbar		::has-secondary-backward-stepper = 1
+	GtkScrollbar		::trough-border = 0
+	GtkScrollbar		::stepper-spacing = 0
+}
+
+style "subhuman-nothickness" = "subhuman-default" {
+	# Removes various padding between widegets, including
+	#  - Between GtkNotebook page edge and edge of contained widget.
+	#  - Between outside edge of GtkFram and edge of contained widget.
+	
+	xthickness = 0
+	ythickness = 0
+}
+
+class "GtkWidget" style "subhuman-default"
+
+class "GtkNotebook" style "subhuman-nothickness"
+#class "GtkScrolledWindow" style "subhuman-nothickness"
+class "GtkFrame" style "subhuman-nothickness"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

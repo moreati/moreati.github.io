@@ -1,0 +1,82 @@
+import os
+import sys
+
+import clr
+
+clr.AddReference('ESRI.ArcGIS.System')
+clr.AddReference('ESRI.ArcGIS.DataSourcesGDB')
+clr.AddReference('ESRI.ArcGIS.Geodatabase')
+
+from ESRI.ArcGIS import esriSystem
+from ESRI.ArcGIS import DataSourcesGDB
+from ESRI.ArcGIS import Geodatabase
+
+CANDIDATE_LICENSES = [
+        licence_enum.esriLicenseProductCodeEngine,
+        licence_enum.esriLicenseProductCodeEngineGeoDB,
+        licence_enum.esriLicenseProductCodeArcServer,
+        licence_enum.esriLicenseProductCodeArcView,
+        licence_enum.esriLicenseProductCodeArcEditor,
+        licence_enum.esriLicenseProductCodeArcInfo,
+        ]
+        
+def main(argv):
+    '''Create an ArcSDE connection file for ArcGIS.
+    '''
+    # Initialize Arc
+    initializeArcGISLicenses()
+    sde_ws_factory = DataSourcesGDB.SdeWorkspaceFactoryClass()
+    
+    conn_fdir = '.'
+    conn_fname = argv[1]
+    conn_fpath = os.path.normpath(os.path.join(conn_fdir, conn_fname))
+    
+    # Remove any existing connection file
+    try:
+        os.remove(conn_fpath)
+    except OSError, e:
+        if e.errno == 2: 
+            pass
+        else:
+            raise
+    
+    # Create a PropertySet containing connection details
+    conn_props = esriSystem.PropertySetClass()
+    esriSystem.IPropertySet.SetProperty(conn_props, "SERVER", argv[2])
+    esriSystem.IPropertySet.SetProperty(conn_props, "INSTANCE", argv[3])
+    esriSystem.IPropertySet.SetProperty(conn_props, "USER", argv[4])
+    esriSystem.IPropertySet.SetProperty(conn_props, "PASSWORD", argv[5])
+    esriSystem.IPropertySet.SetProperty(conn_props, "VERSION", argv[6])
+    esriSystem.IPropertySet.SetProperty(conn_props, "DATABASE", argv[7])
+    
+    # Save the connection file 
+    sde_ws_name = Geodatabase.IWorkspaceFactory.Create(
+        sde_ws_factory, conn_fdir, conn_fname, conn_props, 0
+        )
+
+    # Provide some feedback to user
+    # TODO How do properties work
+    #print "SDE Connection file created. Check %s" % \
+    #    Geodatabase.IWorkspaceName.GetPathName(sde_ws_name)
+
+    del sde_ws_factory
+
+def initializeArcGISLicenses():
+    '''Initialize ArcObjects and check out any license available.
+    '''
+    aoc = esriSystem.AoInitializeClass();
+    license_avail = esriSystem.esriLicenseStatus.esriLicenseAvailable
+    license_enum = esriSystem.esriLicenseProductCode
+        
+    for candidate in CANDIDATE_LICENSES:
+        res = esriSystem.IAoInitialize.IsProductCodeAvailable(aoc, candidate)
+        
+        if res == license_avail:
+            esriSystem.IAoInitialize.Initialize(aoc, candidate)        
+
+if __name__ == '__main__':
+    if len(argv) != 8:
+        print "Incorrect number of arguments passed to function.  Try again."
+        sys.exit()
+
+    main(sys.argv)
