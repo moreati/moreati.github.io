@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Only one predication, Windows 7 will be released as Windows Vista SP 2.5'
 ---
 

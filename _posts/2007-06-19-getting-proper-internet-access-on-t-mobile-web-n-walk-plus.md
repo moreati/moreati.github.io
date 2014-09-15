@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Getting proper internet access on T-Mobile Web n Walk Plus'
 ---
 

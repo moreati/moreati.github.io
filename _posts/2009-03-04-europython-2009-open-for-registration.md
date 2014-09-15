@@ -1,4 +1,5 @@
 ---
+layout: post
 title: EuroPython 2009 open for registration
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Fitts'' Law and Minimalism vs GTK+ and Qt'
 ---
 

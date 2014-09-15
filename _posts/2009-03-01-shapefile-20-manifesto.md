@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'The Shapefile 2.0 manifesto'
 ---
 

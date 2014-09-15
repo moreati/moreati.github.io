@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Power consumption on Linux with the proprietary Nvidia driver
 ---
 

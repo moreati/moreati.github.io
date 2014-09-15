@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'How to make T-Mobile Web n Walk a real web connection'
 ---
 

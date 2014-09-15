@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Commenting is now fixed, sorry'
 ---
 

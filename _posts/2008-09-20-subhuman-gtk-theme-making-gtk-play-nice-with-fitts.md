@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'SubHuman GTK theme: making GTK play nice with Fitts'
 ---
 

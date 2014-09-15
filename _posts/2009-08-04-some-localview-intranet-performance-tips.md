@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Some LocalView Intranet performance tips
 ---
 

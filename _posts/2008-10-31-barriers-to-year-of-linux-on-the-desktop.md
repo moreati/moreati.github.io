@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Barriers to year of linux on the desktop
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: MPGe of an electric car
 ---
 

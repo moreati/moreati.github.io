@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Another Python cheat sheet
 ---
 

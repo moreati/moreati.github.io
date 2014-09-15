@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Brought to you by the letters H, D, D and the sound tinkle'
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Ubuntu Long Term Support and LugRadio Live
 ---
 

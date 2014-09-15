@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Self decrypting emails considered harmful
 ---
 

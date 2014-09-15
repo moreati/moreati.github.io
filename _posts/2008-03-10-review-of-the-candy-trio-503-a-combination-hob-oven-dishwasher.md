@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Review of the Candy Trio 503: a combination hob, oven & dishwasher'
 ---
 

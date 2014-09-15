@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'I Want My New EV (with apologies to Dire Straits)'
 ---
 

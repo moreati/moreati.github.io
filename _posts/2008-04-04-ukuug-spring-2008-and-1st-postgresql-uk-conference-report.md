@@ -1,4 +1,5 @@
 ---
+layout: post
 title: UKUUG spring 2008 and 1st PostgreSQL UK conference report
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Honey I hid the dot-files'
 ---
 

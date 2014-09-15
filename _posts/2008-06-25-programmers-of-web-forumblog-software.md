@@ -1,4 +1,5 @@
 ---
+layout: post
 title: '@Programmers of web forum/blog software'
 ---
 

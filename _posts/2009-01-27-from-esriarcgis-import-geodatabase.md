@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'from ESRI.ArcGIS import Geodatabase'
 ---
 

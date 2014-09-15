@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Make a Windows installer for your python module
 ---
 

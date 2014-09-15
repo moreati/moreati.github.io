@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'meetyourmessenger.co.uk smells phishy'
 ---
 

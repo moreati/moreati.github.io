@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Tabular data with Python slides, from PyCon UK'
 ---
 

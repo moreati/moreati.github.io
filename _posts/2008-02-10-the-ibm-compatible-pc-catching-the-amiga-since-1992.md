@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'The IBM compatible PC, catching the Amiga since 1992'
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Deep Zoom and others for displaying large images on the web
 ---
 

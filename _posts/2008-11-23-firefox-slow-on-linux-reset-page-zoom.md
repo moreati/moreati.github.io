@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Firefox rendering/scrolling slow on Linux? Try reseting page zoom'
 ---
 

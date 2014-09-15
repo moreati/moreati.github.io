@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Free/Open Source Government: part 2'
 ---
 

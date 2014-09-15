@@ -1,4 +1,5 @@
 ---
+layout: post
 title: PyCon UK early bird registration
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Notes on using sdelayer to mosaic data into ArcSDE
 ---
 

@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Hacker Culture and geek groups in Birmingham, West Midlands'
 ---
 

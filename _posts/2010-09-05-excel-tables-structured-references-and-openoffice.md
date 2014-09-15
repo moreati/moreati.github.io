@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Excel tables, structured references and OpenOffice'
 ---
 

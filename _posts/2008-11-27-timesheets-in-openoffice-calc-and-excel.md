@@ -1,4 +1,5 @@
 ---
+layout: post
 title: Timesheets in OpenOffice Calc and Excel
 ---
 

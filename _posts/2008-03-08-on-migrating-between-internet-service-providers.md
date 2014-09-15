@@ -1,4 +1,5 @@
 ---
+layout: post
 title: On migrating between internet service providers
 ---
 
