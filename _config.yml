@@ -14,3 +14,5 @@ gems: [jekyll-paginate]
 # Details for the RSS feed generator
 url:            'https://moreati.github.io'
 author:         'Alex Willmer'
+author_description: >
+                Python developer by trade. Tricopter crasher and armchair energy pundit at weekends. Pun usually intended
