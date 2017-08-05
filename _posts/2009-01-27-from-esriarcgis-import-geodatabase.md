@@ -7,7 +7,7 @@ A couple of years ago [I tried to use ArcObjects, through
 IronPython](http://lists.ironpython.com/pipermail/users-ironpython.com/2007-February/004588.html).
 It didn't quite work. Last week I tried again, using the newly released
 IronPython 2.0. This time it worked better.
-[create\_sde\_conn\_file.py](../../../uploads/2009/01/create_sde_conn_filepy.txt)
+[create\_sde\_conn\_file.py]({{ site.url }}/uploads/2009/01/create_sde_conn_filepy.txt)
 is based on CreateSDEConnFile.java, from [Creating ArcSDE connection
 files on the fly using Python and
 ArcObjects](http://blogs.esri.com/Dev/blogs/geoprocessing/archive/2008/09/24/Tips-and-Tricks-_2D00_-Creating-ArcSDE-connection-files-on-the-fly-using-Python-and-ArcObjects.aspx)

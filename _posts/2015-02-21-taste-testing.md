@@ -10,7 +10,7 @@ They covered cola, diet cola, and chocolate sandwich bars.
 I wanted to find out what goes into running a taste test, how peoeple
 react and to get some measurable results.
 
-<img alt="Taste test products" src="{{ site.url }}/assets/20150218_131950.jpg" width="80%">
+<img alt="Taste test products" src="{{ site.url }}/uploads/20150218_131950.jpg" width="80%">
 
 My inspiration was a recent TV programme called
 ["Eat Well for Less?"](http://www.bbc.co.uk/programmes/b0520lz9)

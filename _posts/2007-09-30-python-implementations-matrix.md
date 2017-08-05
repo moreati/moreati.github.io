@@ -13,8 +13,8 @@ library modules. It is ready for a first release, but far from complete:
 -   PyPy has not been started
 
 I've uploaded as an OpenDocument Spreadsheet: [Python implementations
-matrix](../../../uploads/2007/09/python-matrix.ods "Python implementations matrix").
+matrix]({{ site.url }}/uploads/2007/09/python-matrix.ods "Python implementations matrix").
 Alternatively, for those stuck with Excel, it is also available as an MS
 Excel workbook: [Python implementations matrix
-(xls)](../../../uploads/2007/09/python-matrix.xls "Python implementations matrix (xls)")
+(xls)]({{ site.url }}/uploads/2007/09/python-matrix.xls "Python implementations matrix (xls)")
 Comments, suggestions and emails welcome.

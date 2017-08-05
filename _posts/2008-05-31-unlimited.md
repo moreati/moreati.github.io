@@ -14,7 +14,7 @@ rates page, but it takes advanced double-think to state "unlimited"
 within 200 pixels of the limit.
 
 [![T-Mobile\\\\'s limited unlimited data
-rates](../../../uploads/2008/05/t-mobile-wnw-rates-300x300.jpg "t-mobile-wnw-rates")](../../../uploads/2008/05/t-mobile-wnw-rates.jpeg)
+rates]({{ site.url }}/uploads/2008/05/t-mobile-wnw-rates.jpeg "t-mobile-wnw-rates.jpeg")]({{ site.url }}/uploads/2008/05/t-mobile-wnw-rates.jpeg)
 
 Mandatory bandwdith labelling must be just around the corner, along with
 sorting out [the mess of

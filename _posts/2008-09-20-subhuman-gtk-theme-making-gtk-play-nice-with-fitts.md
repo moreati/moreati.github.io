@@ -10,9 +10,9 @@ Qt. Here's what I've got so far (click for unscaled versions):
 
 [![Pidgin
 chat before
-slimming](../../../uploads/2008/09/pidgin-chat-before.png "pidgin-chat-before")](../../../uploads/2008/09/pidgin-chat-before.png)[![Pidgin
+slimming]({{ site.url }}/uploads/2008/09/pidgin-chat-before.png "pidgin-chat-before")]({{ site.url }}/uploads/2008/09/pidgin-chat-before.png)[![Pidgin
 chat after slimming
-down](../../../uploads/2008/09/pidgin-chat-after.png "pidgin-chat-after")](../../../uploads/2008/09/pidgin-chat-after.png)
+down]({{ site.url }}/uploads/2008/09/pidgin-chat-after.png "pidgin-chat-after")]({{ site.url }}/uploads/2008/09/pidgin-chat-after.png)
 
 Although work in progress still, I think the window looks cleaner
 already. Most importantly the chat history scrollbar now lies flush with
@@ -37,7 +37,7 @@ theme is Human. To override Human, one can:
 -   Override the default theme by creating a `~/.gtkrc-2.0` file.
 
 The gtkrc that I' currently using is
-[subhuman-gtkrc-20](../../../uploads/2008/09/subhuman-gtkrc-20).
+[subhuman-gtkrc-20]({{ site.url }}/uploads/2008/09/subhuman-gtkrc-20).
 To use this, download it and save it as `.gtkrc-2.0` in your home
 folder. Any GTK+ programs started from then on will have padding
 removed. Gedit, Anjuta and Gnome Terminal respond well. Seahorse and

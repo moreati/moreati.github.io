@@ -48,7 +48,7 @@ the price.
 Eco Machines Electra 2012 Review
 --------------------------------
 
-[![p\_1600\_1200\_225700FE-CFF9-4248-8E43-5C3EA409BB06.jpeg](../../../uploads/2009/09/p_1600_1200_225700FE-CFF9-4248-8E43-5C3EA409BB06-225x300.jpg "p_1600_1200_225700FE-CFF9-4248-8E43-5C3EA409BB06.jpeg")](../../../uploads/2009/09/p_1600_1200_225700FE-CFF9-4248-8E43-5C3EA409BB06.jpeg)[![l\_1600\_1200\_8CA06209-FC72-4A03-94AF-A936AD0E7C45.jpeg](../../../uploads/2009/09/l_1600_1200_8CA06209-FC72-4A03-94AF-A936AD0E7C45-300x225.jpg "l_1600_1200_8CA06209-FC72-4A03-94AF-A936AD0E7C45.jpeg")](../../../uploads/2009/09/l_1600_1200_8CA06209-FC72-4A03-94AF-A936AD0E7C45.jpeg)
+[![p\_1600\_1200\_225700FE-CFF9-4248-8E43-5C3EA409BB06.jpeg]({{ site.url }}/uploads/2009/09/p_1600_1200_225700FE-CFF9-4248-8E43-5C3EA409BB06-225x300.jpg "p_1600_1200_225700FE-CFF9-4248-8E43-5C3EA409BB06.jpeg")]({{ site.url }}/uploads/2009/09/p_1600_1200_225700FE-CFF9-4248-8E43-5C3EA409BB06.jpeg)[![l\_1600\_1200\_8CA06209-FC72-4A03-94AF-A936AD0E7C45.jpeg]({{ site.url }}/uploads/2009/09/l_1600_1200_8CA06209-FC72-4A03-94AF-A936AD0E7C45-300x225.jpg "l_1600_1200_8CA06209-FC72-4A03-94AF-A936AD0E7C45.jpeg")]({{ site.url }}/uploads/2009/09/l_1600_1200_8CA06209-FC72-4A03-94AF-A936AD0E7C45.jpeg)
 
 In June I bought an [Eco Machines](http://www.eco-machines.co.uk/)
 [Electra 2012](http://www.eco-machines.co.uk/our_mopeds.htm) scooter. An
@@ -59,7 +59,7 @@ range of 30 miles. The cost of the scooter is currently about £1000,
 plus delivery and a one off registration fee. A full recharge takes 8
 hours, and costs no more than 25 pence.
 
-[![p\_1600\_1200\_551DA55F-E65B-4D8D-A6C9-E6B85A899C8D.jpeg](../../../uploads/2009/09/p_1600_1200_551DA55F-E65B-4D8D-A6C9-E6B85A899C8D-225x300.jpg "p_1600_1200_551DA55F-E65B-4D8D-A6C9-E6B85A899C8D.jpeg")](../../../uploads/2009/09/p_1600_1200_551DA55F-E65B-4D8D-A6C9-E6B85A899C8D.jpeg)
+[![p\_1600\_1200\_551DA55F-E65B-4D8D-A6C9-E6B85A899C8D.jpeg]({{ site.url }}/uploads/2009/09/p_1600_1200_551DA55F-E65B-4D8D-A6C9-E6B85A899C8D-225x300.jpg "p_1600_1200_551DA55F-E65B-4D8D-A6C9-E6B85A899C8D.jpeg")]({{ site.url }}/uploads/2009/09/p_1600_1200_551DA55F-E65B-4D8D-A6C9-E6B85A899C8D.jpeg)
 
 I went for the Electra because the dealer is local to me, and because of
 the internals. The parallel strings of batteries are to my knowledge
@@ -80,7 +80,7 @@ is released. Lights, indicators and the horn are controlled by thumb
 switches. There are no gears or clutch to worry about, and nothing for
 your feet to do whilst on the move.
 
-[![l\_1600\_1200\_8CF3CC3E-88A2-49FB-8FC1-2CFB30F7788F.jpeg](../../../uploads/2009/09/l_1600_1200_8CF3CC3E-88A2-49FB-8FC1-2CFB30F7788F-300x225.jpg "l_1600_1200_8CF3CC3E-88A2-49FB-8FC1-2CFB30F7788F.jpeg")](../../../uploads/2009/09/l_1600_1200_8CF3CC3E-88A2-49FB-8FC1-2CFB30F7788F.jpeg)
+[![l\_1600\_1200\_8CF3CC3E-88A2-49FB-8FC1-2CFB30F7788F.jpeg]({{ site.url }}/uploads/2009/09/l_1600_1200_8CF3CC3E-88A2-49FB-8FC1-2CFB30F7788F-300x225.jpg "l_1600_1200_8CF3CC3E-88A2-49FB-8FC1-2CFB30F7788F.jpeg")]({{ site.url }}/uploads/2009/09/l_1600_1200_8CF3CC3E-88A2-49FB-8FC1-2CFB30F7788F.jpeg)
 
 I spend most of my journey at the scooter's top speed. Without a top-up
 at work it's top speed has reduced to about 27 mph by the time I reach
@@ -91,7 +91,7 @@ batteries, rather than smoothly decreasing with distance it will droop
 when under acceleration. The amount of droop indicates the amount of
 charge left - more droop, less charge.
 
-[![p\_1600\_1200\_FCFC3871-67F8-4E2B-9E8F-8BCA487D2CB3.jpeg](../../../uploads/2009/09/p_1600_1200_FCFC3871-67F8-4E2B-9E8F-8BCA487D2CB3-225x300.jpg "p_1600_1200_FCFC3871-67F8-4E2B-9E8F-8BCA487D2CB3.jpeg")](../../../uploads/2009/09/p_1600_1200_FCFC3871-67F8-4E2B-9E8F-8BCA487D2CB3.jpeg)[![l\_1600\_1200\_4AEC2230-07B0-41C6-95B0-5B9CC98B04E2.jpeg](../../../uploads/2009/09/l_1600_1200_4AEC2230-07B0-41C6-95B0-5B9CC98B04E2-300x225.jpg "l_1600_1200_4AEC2230-07B0-41C6-95B0-5B9CC98B04E2.jpeg")](../../../uploads/2009/09/l_1600_1200_4AEC2230-07B0-41C6-95B0-5B9CC98B04E2.jpeg)
+[![p\_1600\_1200\_FCFC3871-67F8-4E2B-9E8F-8BCA487D2CB3.jpeg]({{ site.url }}/uploads/2009/09/p_1600_1200_FCFC3871-67F8-4E2B-9E8F-8BCA487D2CB3-225x300.jpg "p_1600_1200_FCFC3871-67F8-4E2B-9E8F-8BCA487D2CB3.jpeg")]({{ site.url }}/uploads/2009/09/p_1600_1200_FCFC3871-67F8-4E2B-9E8F-8BCA487D2CB3.jpeg)[![l\_1600\_1200\_4AEC2230-07B0-41C6-95B0-5B9CC98B04E2.jpeg]({{ site.url }}/uploads/2009/09/l_1600_1200_4AEC2230-07B0-41C6-95B0-5B9CC98B04E2-300x225.jpg "l_1600_1200_4AEC2230-07B0-41C6-95B0-5B9CC98B04E2.jpeg")]({{ site.url }}/uploads/2009/09/l_1600_1200_4AEC2230-07B0-41C6-95B0-5B9CC98B04E2.jpeg)
 
 I've had no problems with the included charger, which has an aluminium
 housing that feels robust. I'm able to leave it unattended, as it

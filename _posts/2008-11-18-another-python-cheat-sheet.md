@@ -6,9 +6,9 @@ title: Another Python cheat sheet
 I couldn't find a Python cheat sheet that I liked, so I made another.
 
 -   [Python cheat sheet 0.1 (A4,
-    OpenDocument)](../../../uploads/2008/11/python-cheat-sheet.odt)
+    OpenDocument)]({{ site.url }}/uploads/2008/11/python-cheat-sheet.odt)
 -   [Python Cheat sheet 0.1 (A4,
-    PDF)](../../../uploads/2008/11/python-cheat-sheet.pdf)
+    PDF)]({{ site.url }}/uploads/2008/11/python-cheat-sheet.pdf)
 
 It's rough, but pretty usable. I need to make better use of
 space/colour, choose a clearer font and link it into the Python docs.

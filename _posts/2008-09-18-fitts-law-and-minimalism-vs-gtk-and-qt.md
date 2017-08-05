@@ -12,9 +12,9 @@ the Pidgin source code . [Bug
 with patch was duly filed. Now I've become obsessed, I'm spotting extra
 borders and pixels in nearly every application on my desktop.
 
-[![](../../../uploads/2008/09/pidgin-chat-without-padding-196x300.png "pidgin-chat-without-padding")](../../../uploads/2008/09/pidgin-chat-without-padding.png)[![Pidgin
+[![]({{ site.url }}/uploads/2008/09/pidgin-chat-without-padding.png "pidgin-chat-without-padding")]({{ site.url }}/uploads/2008/09/pidgin-chat-without-padding.png)[![Pidgin
 chat with
-padding](../../../uploads/2008/09/pidgin-chat-window-196x300.png "pidgin-chat-window")](../../../uploads/2008/09/pidgin-chat-window.png)
+padding]({{ site.url }}/uploads/2008/09/pidgin-chat-window.png "pidgin-chat-window")]({{ site.url }}/uploads/2008/09/pidgin-chat-window.png)
 <!--more-->
 
 ### Fitts' law
@@ -36,7 +36,7 @@ maximized their scrollbar reaches the screen edge.
 
 [![Firefox gets
 Fitts\\\\' law
-right](../../../uploads/2008/09/firefox-gets-fitts-law-right-300x121.png "firefox-gets-fitts-law-right")](../../../uploads/2008/09/firefox-gets-fitts-law-right.png)
+right]({{ site.url }}/uploads/2008/09/firefox-gets-fitts-law-right.png "firefox-gets-fitts-law-right")]({{ site.url }}/uploads/2008/09/firefox-gets-fitts-law-right.png)
 
 Pidgin, Gedit, Synaptic, MonoDevelop, Qt Designer, Glade, Anjuta & many
 more get it terribly wrong. The scrollbars are inset from the window's
@@ -45,7 +45,7 @@ and their designers subjected to aversion therapy.
 
 [![Anjunta breaks
 Fitts
-law](../../../uploads/2008/09/anjuta-breaks-fitts-law-300x121.png "anjuta-breaks-fitts-law")](../../../uploads/2008/09/anjuta-breaks-fitts-law.png)
+law]({{ site.url }}/uploads/2008/09/anjuta-breaks-fitts-law.png "anjuta-breaks-fitts-law")]({{ site.url }}/uploads/2008/09/anjuta-breaks-fitts-law.png)
 
 ### The true culprit
 
@@ -53,7 +53,7 @@ In fact Pidgin and Gedit are innocent, they've been framed (so to speak)
 by [GTK+](http://www.gtk.org).
 
 [![Gnome terminal without
-tabs](../../../uploads/2008/09/gnome-terminal-without-tabs.png "gnome-terminal-without-tabs")](../../../uploads/2008/09/gnome-terminal-without-tabs.png)
+tabs]({{ site.url }}/uploads/2008/09/gnome-terminal-without-tabs.png "gnome-terminal-without-tabs")]({{ site.url }}/uploads/2008/09/gnome-terminal-without-tabs.png)
 
 The
 [GtkNotebook](http://library.gnome.org/devel/gtk/stable/GtkNotebook.html)
@@ -64,7 +64,7 @@ The effect can be seen by opening a new Gnome Terminal, maximizing it,
 then opening a new tab. The scrollbar shifts inward by a few pixels.
 
 [![Gnome terminal with
-tabs](../../../uploads/2008/09/gnome-terminal-with-tabs.png "gnome-terminal-with-tabs")](../../../uploads/2008/09/gnome-terminal-with-tabs.png)
+tabs]({{ site.url }}/uploads/2008/09/gnome-terminal-with-tabs.png "gnome-terminal-with-tabs")]({{ site.url }}/uploads/2008/09/gnome-terminal-with-tabs.png)
 
 Firefox gets around this in some way I haven't divined. Either it
 doesn't use GtkNotebook or the GtkNotebook doesn't contain the pages.
@@ -92,7 +92,7 @@ any. For instance, compare this screen shot of
 [Adium](http://www.adiumx.com) to the earlier Pidgin screen shots.
 
 [![Adium
-screenshot](../../../uploads/2008/09/adium-overview-300x225.jpg "adium-overview")](../../../uploads/2008/09/adium-overview.jpg)
+screenshot]({{ site.url }}/uploads/2008/09/adium-overview.jpg "adium-overview")]({{ site.url }}/uploads/2008/09/adium-overview.jpg)
 
 I'm want Gnome or KDE to look just like
 [Aqua](http://en.wikipedia.org/wiki/Aqua_(user_interface)), but they

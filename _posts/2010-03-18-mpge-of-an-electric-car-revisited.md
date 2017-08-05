@@ -62,9 +62,7 @@ Electric Car](http://owningelectriccar.com/)) performed a direct test.
 He drove 2 conventional and 2 electric cars along the same route and
 measured their respective energy use:
 
-<object type="application/x-shockwave-flash" style="width:480px; height:385px;" data="//www.youtube.com/v/dSVc2SrXVIk">
-<param name="movie" value="//www.youtube.com/v/dSVc2SrXVIk"></param>
-</object>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dSVc2SrXVIk" frameborder="0" allowfullscreen></iframe>
 
 In his test the electric cars charged from the National Grid both
 emitted 50 g/km, whilst the conventional cars emitted 137 and 155 g/km

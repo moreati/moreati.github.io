@@ -32,10 +32,10 @@ ask whoever created the spreadsheet to send you a copy in OpenDocument
 (.ods) format. Attached for reference are two example spreadsheets.
 
 -   [Structured references example
-    (.xlsx)](../../../uploads/2010/09/structured_references_example.xlsx)
+    (.xlsx)]({{ site.url }}/uploads/2010/09/structured_references_example.xlsx)
     This will work in Mircrosoft Excel, but not OpenOffice Calc
 -   [Structured references example
-    (.ods)](../../../uploads/2010/09/structured_references_example.ods)
+    (.ods)]({{ site.url }}/uploads/2010/09/structured_references_example.ods)
     This example has been saved in OpenDocument format by Excel 2010.
     This removed structured references and converted them to standard
     cell/range references.
