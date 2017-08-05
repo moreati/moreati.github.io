@@ -1,6 +1,6 @@
 ---
 layout: post
-title: '"Unlimited"\*'
+title: '"Unlimited"*'
 ---
 
 The term "unlimited" has been stretched in various ways over the last

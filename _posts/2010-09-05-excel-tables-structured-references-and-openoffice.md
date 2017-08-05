@@ -4,8 +4,8 @@ title: 'Excel tables, structured references and OpenOffice'
 ---
 
 In Microsoft Excel and OpenOffice Calc one can name a range of cells
-and refer to the name in a formula. So rather than writing =SUM(C2:C7)
-one can write =SUM(SaleAmt). Excel calls this a "Defined Name". In Excel
+and refer to the name in a formula. So rather than writing `=SUM(C2:C7)`
+one can write `=SUM(SaleAmt)`. Excel calls this a "Defined Name". In Excel
 2007 one can also create a
 "[table](http://office.microsoft.com/en-us/excel-help/define-and-use-names-in-formulas-HA010147120.aspx)",
 which is a region of cells that store records and fields in the rows and
@@ -15,7 +15,7 @@ Excel a table allows one to write formulas with a syntax called a
 "[structured
 reference](http://office.microsoft.com/en-us/excel-help/using-structured-references-with-excel-tables-HA010155686.aspx "Using structured references with Excel tables")".
 To sum the values in the SaleAmt field of the DeptSales table one would
-write the formula as =SUM(DeptSales[SaleAmt]). If new columns or rows
+write the formula as `=SUM(DeptSales[SaleAmt])`. If new columns or rows
 are added to the table Excel should automatically track this and
 recalculate the formula appropriately. OpenOffice Calc does not support
 these, they are a proprietary feature of Excel. So please don't use

@@ -22,6 +22,7 @@ really reduce carbon emissions. Here is a partial transcript:
 >     it relies on electricity, which comes from the National Grid, and
 >     the National grid is powered by... whatever, coal fired power
 >     stations. Is it really a low carbon car, or is it masquerading?
+>
 > John Moylan:
 > :   Well I suppose it depends where you see our wider energy system in
 >     the decade to come. The government has decided that it wants
