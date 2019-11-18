@@ -15,7 +15,9 @@ baseurl:        ''
 permalink:      'blog/:year/:month/:day/:title.html'
 domain_name:    'https://moreati.github.io'
 
-gems: [jekyll-paginate]
+plugins:
+  - jekyll-paginate
+  - jekyll-relative-links
 
 # Details for the RSS feed generator
 url:            'https://moreati.github.io'
