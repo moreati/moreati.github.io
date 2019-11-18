@@ -1,7 +1,13 @@
+# https://jekyllrb.com/docs/configuration/
+
+# Enforced by GitHub pages
+safe: true
+
 name: Misspelled Nemesis Club
 description: Alex Willmer's blog
 
 markdown: kramdown
+# Enforced by GitHub pages
 highlighter: rouge
 logo: false
 paginate: 15
