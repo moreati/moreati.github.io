@@ -162,7 +162,7 @@ NCSA_COMMON_LOG_PATTERN = re.compile(r'''
     "
         (?P<http_method>[a-z]+)  # e.g. GET, HEAD, Head
         [ ]
-        (?P<path>[^ ]+)  #  e.g. /, /report, /imgs/cat.jpg
+        (?P<path>[^ ]+)  # e.g. /, /report, /imgs/cat.jpg
         [ ]
         HTTP/(?P<http_version>[0-9.]+)  # e.g. 1.0, 2
     "
@@ -185,8 +185,13 @@ Now our pattern is readble, maintainble, & it returns results by name
 >>> line = '127.0.0.1 - james [09/May/2018:16:00:39 +0000] "GET /report HTTP/1.0" 200 123'
 >>> match = NCSA_COMMON_LOG_PATTERN.match(line)
 >>> match.groupdict()
-{'remote_host': '127.0.0.1', 'remote_ident': '-', 'remote_user': 'james',
- 'request_datetime': '09/May/2018:16:00:39 +0000', 'http_method': 'GET',
- 'path': '/report', 'http_version': '1.0', 'http_response_code': '200',
+{'remote_host': '127.0.0.1',
+ 'remote_ident': '-',
+ 'remote_user': 'james',
+ 'request_datetime': '09/May/2018:16:00:39 +0000',
+ 'http_method': 'GET',
+ 'path': '/report',
+ 'http_version': '1.0',
+ 'http_response_code': '200',
  'http_response_body_size': '123'}
 ```
