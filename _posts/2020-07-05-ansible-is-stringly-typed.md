@@ -3,12 +3,13 @@ layout: post
 title: Ansible is Stringly Typed
 ---
 
-{% raw %}
 
 ## Summary
-Ansible is weakly typed, in particular variables set on the command line are [stringly typed](https://wiki.c2.com/?StringlyTyped).
+Ansible is weakly typed, but in particular variables set on the command line are [stringly typed](https://wiki.c2.com/?StringlyTyped).
 If a string is used in a condition (e.g. `when: skip_build`) it leads to surprising results, because any non-empty string (e.g. `"false"`) evaluate as [truthy](https://docs.python.org/3/library/stdtypes.html#truth-value-testing).
 I recommend casting all variables in conditionals, or other calculations.
+
+{% raw %}
 
 Prefer
 
